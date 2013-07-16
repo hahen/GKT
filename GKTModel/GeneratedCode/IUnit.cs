@@ -15,13 +15,13 @@ public interface IUnit
 
 	NoiseQuencher ExtractNoiseQuencher { get;set; }
 
-	IFan Fan { get;set; }
+	IFan IFan { get;set; }
 
-	IHeater Heater { get;set; }
+	IHeater IHeater { get;set; }
 
-	ICooler Cooler { get;set; }
+	ICooler ICooler { get;set; }
 
-	FilterType Filter { get;set; }
+	FilterType FilterType { get;set; }
 
 }
 

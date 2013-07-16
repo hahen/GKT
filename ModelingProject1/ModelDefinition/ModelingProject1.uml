@@ -1366,6 +1366,47 @@
             </propertyInstances>
           </stereotypeInstance>
         </appliedStereotypesInternal>
+        <targetEnds>
+          <association
+            Id="d1b0265f-efe4-4576-8864-ca7be62f5475"
+            isDerived="false"
+            sourceEndRoleName="NoiseQuencher"
+            targetEndRoleName="IUnit"
+            isLeaf="false"
+            isAbstract="false">
+            <interfaceMoniker
+              Id="7942248c-1b42-4370-9a8c-7d29b72e43b5"
+              LastKnownName="IUnit"
+              LastKnownLocation="ModelingProject1.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="a0736b34-8769-4046-b42f-dae3c565104c"
+                  name="NoiseQuencher"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="Shared"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="eaca9254-3048-4bed-a3b1-028292d07732"
+                  name="IUnit"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+        </targetEnds>
         <ownedLiterals>
           <enumerationLiteral
             Id="10c0e310-d496-45e1-aea0-7771d99902b8"

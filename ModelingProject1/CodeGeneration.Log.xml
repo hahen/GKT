@@ -6,58 +6,59 @@
   <MessageClass Name="Error" Label="Error" Option="Show errors" />
   <MessageClass Name="Property" Label="Property" Option="Show metadata" />
   <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
-  <Message Timestamp="2013-07-14T19:06:08" Importance="High" Text="Code generation or text transformation started." />
-  <Message Timestamp="2013-07-14T19:06:08" Importance="Diagnostic" Text="Name = ClassTemplate" />
-  <Message Timestamp="2013-07-14T19:06:08" Importance="Diagnostic" Text="Overwrite = True" />
-  <Message Timestamp="2013-07-14T19:06:08" Importance="Diagnostic" Text="ProjectPath = ..\GKTModel\GKTModel.csproj" />
-  <Message Timestamp="2013-07-14T19:06:08" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
-  <Message Timestamp="2013-07-14T19:06:08" Importance="Diagnostic" Text="TargetName = {Name}" />
-  <Message Timestamp="2013-07-14T19:06:08" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
-  <Message Timestamp="2013-07-14T19:06:08" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
-  <Message Timestamp="2013-07-14T19:06:08" Importance="Medium" Text="ModelingProject1's Text Template Binding: 'ClassTemplate' will apply ClassTemplate.t4 to: 'ModelingProject1::FreePressureFan' -  (Class), 'ModelingProject1::BeltGearFan' -  (Class), 'ModelingProject1::NullFan' -  (Class) " />
-  <Message Timestamp="2013-07-14T19:06:08" Importance="Medium" Text="'ModelingProject1::FreePressureFan' -  (Class) : success (file replaced) - C:\Users\d\Documents\Visual Studio 11\Projects\GKT\GKTModel\GeneratedCode\FreePressureFan.cs" />
-  <Message Timestamp="2013-07-14T19:06:08" Importance="Medium" Text="'ModelingProject1::BeltGearFan' -  (Class) : success (file replaced) - C:\Users\d\Documents\Visual Studio 11\Projects\GKT\GKTModel\GeneratedCode\BeltGearFan.cs" />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Medium" Text="'ModelingProject1::NullFan' -  (Class) : success (file replaced) - C:\Users\d\Documents\Visual Studio 11\Projects\GKT\GKTModel\GeneratedCode\NullFan.cs" />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="Name = EnumTemplate" />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="Overwrite = True" />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="ProjectPath = ..\GKTModel\GKTModel.csproj" />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="TargetName = {Name}" />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\EnumTemplate.t4" />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\EnumTemplate.t4" />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Medium" Text="ModelingProject1's Text Template Binding: 'EnumTemplate' will apply EnumTemplate.t4 to: 'ModelingProject1::NoiseQuencher' -  (Enumeration), 'ModelingProject1::FilterType' -  (Enumeration) " />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Medium" Text="'ModelingProject1::NoiseQuencher' -  (Enumeration) : success (file created) - C:\Users\d\Documents\Visual Studio 11\Projects\GKT\GKTModel\GeneratedCode\NoiseQuencher.cs" />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Medium" Text="'ModelingProject1::FilterType' -  (Enumeration) : success (file replaced) - C:\Users\d\Documents\Visual Studio 11\Projects\GKT\GKTModel\GeneratedCode\FilterType.cs" />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="Name = InterfaceTemplate" />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="Overwrite = True" />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="ProjectPath = ..\GKTModel\GKTModel.csproj" />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="TargetName = {Name}" />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4" />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4" />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Medium" Text="ModelingProject1's Text Template Binding: 'InterfaceTemplate' will apply InterfaceTemplate.t4 to: 'ModelingProject1::IFan' -  (Interface), 'ModelingProject1::IUnit' -  (Interface), 'ModelingProject1::IHeater' -  (Interface), 'ModelingProject1::ICooler' -  (Interface) " />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Medium" Text="'ModelingProject1::IFan' -  (Interface) : success (file replaced) - C:\Users\d\Documents\Visual Studio 11\Projects\GKT\GKTModel\GeneratedCode\IFan.cs" />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Medium" Text="'ModelingProject1::IUnit' -  (Interface) : success (file replaced) - C:\Users\d\Documents\Visual Studio 11\Projects\GKT\GKTModel\GeneratedCode\IUnit.cs" />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Medium" Text="'ModelingProject1::IHeater' -  (Interface) : success (file replaced) - C:\Users\d\Documents\Visual Studio 11\Projects\GKT\GKTModel\GeneratedCode\IHeater.cs" />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Medium" Text="'ModelingProject1::ICooler' -  (Interface) : success (file replaced) - C:\Users\d\Documents\Visual Studio 11\Projects\GKT\GKTModel\GeneratedCode\ICooler.cs" />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="Name = StructTemplate" />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="Overwrite = True" />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="ProjectPath = ..\GKTModel\GKTModel.csproj" />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="TargetName = {Name}" />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Medium" Text="ModelingProject1's Text Template Binding: 'StructTemplate' will apply StructTemplate.t4 to: 'ModelingProject1::FreePressureFan' -  (Class), 'ModelingProject1::BeltGearFan' -  (Class), 'ModelingProject1::NullFan' -  (Class) " />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="'ModelingProject1::FreePressureFan' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="'ModelingProject1::BeltGearFan' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="'ModelingProject1::NullFan' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="The selection included 7 elements which were not bound to a template." />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="'ModelingProject1::' -  (InterfaceRealization): no bound template." />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="'ModelingProject1::' -  (InterfaceRealization): no bound template." />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="'ModelingProject1::' -  (Association): no bound template." />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="'ModelingProject1::' -  (Association): no bound template." />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="'ModelingProject1::' -  (Association): no bound template." />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="'ModelingProject1::' -  (InterfaceRealization): no bound template." />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="Diagnostic" Text="'ModelingProject1::' -  (Association): no bound template." />
-  <Message Timestamp="2013-07-14T19:06:09" Importance="High" Text="Code generation complete. Errors: 0. Warnings: 0." />
+  <Message Timestamp="2013-07-16T09:41:49" Importance="High" Text="Code generation or text transformation started." />
+  <Message Timestamp="2013-07-16T09:41:49" Importance="Diagnostic" Text="Name = ClassTemplate" />
+  <Message Timestamp="2013-07-16T09:41:49" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2013-07-16T09:41:49" Importance="Diagnostic" Text="ProjectPath = ..\GKTModel\GKTModel.csproj" />
+  <Message Timestamp="2013-07-16T09:41:49" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2013-07-16T09:41:49" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2013-07-16T09:41:49" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2013-07-16T09:41:49" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2013-07-16T09:41:49" Importance="Medium" Text="ModelingProject1's Text Template Binding: 'ClassTemplate' will apply ClassTemplate.t4 to: 'ModelingProject1::BeltGearFan' -  (Class), 'ModelingProject1::FreePressureFan' -  (Class), 'ModelingProject1::NullFan' -  (Class) " />
+  <Message Timestamp="2013-07-16T09:41:57" Importance="Medium" Text="'ModelingProject1::BeltGearFan' -  (Class) : success (file replaced) - C:\Users\isemyan\Documents\GitHub\GKT\GKTModel\GeneratedCode\BeltGearFan.cs" />
+  <Message Timestamp="2013-07-16T09:41:57" Importance="Medium" Text="'ModelingProject1::FreePressureFan' -  (Class) : success (file replaced) - C:\Users\isemyan\Documents\GitHub\GKT\GKTModel\GeneratedCode\FreePressureFan.cs" />
+  <Message Timestamp="2013-07-16T09:41:57" Importance="Medium" Text="'ModelingProject1::NullFan' -  (Class) : success (file replaced) - C:\Users\isemyan\Documents\GitHub\GKT\GKTModel\GeneratedCode\NullFan.cs" />
+  <Message Timestamp="2013-07-16T09:41:57" Importance="Diagnostic" Text="Name = EnumTemplate" />
+  <Message Timestamp="2013-07-16T09:41:57" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2013-07-16T09:41:57" Importance="Diagnostic" Text="ProjectPath = ..\GKTModel\GKTModel.csproj" />
+  <Message Timestamp="2013-07-16T09:41:57" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2013-07-16T09:41:57" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2013-07-16T09:41:57" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\EnumTemplate.t4" />
+  <Message Timestamp="2013-07-16T09:41:57" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\EnumTemplate.t4" />
+  <Message Timestamp="2013-07-16T09:41:57" Importance="Medium" Text="ModelingProject1's Text Template Binding: 'EnumTemplate' will apply EnumTemplate.t4 to: 'ModelingProject1::FilterType' -  (Enumeration), 'ModelingProject1::NoiseQuencher' -  (Enumeration) " />
+  <Message Timestamp="2013-07-16T09:41:58" Importance="Medium" Text="'ModelingProject1::FilterType' -  (Enumeration) : success (file replaced) - C:\Users\isemyan\Documents\GitHub\GKT\GKTModel\GeneratedCode\FilterType.cs" />
+  <Message Timestamp="2013-07-16T09:41:58" Importance="Medium" Text="'ModelingProject1::NoiseQuencher' -  (Enumeration) : success (file replaced) - C:\Users\isemyan\Documents\GitHub\GKT\GKTModel\GeneratedCode\NoiseQuencher.cs" />
+  <Message Timestamp="2013-07-16T09:41:58" Importance="Diagnostic" Text="Name = InterfaceTemplate" />
+  <Message Timestamp="2013-07-16T09:41:58" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2013-07-16T09:41:58" Importance="Diagnostic" Text="ProjectPath = ..\GKTModel\GKTModel.csproj" />
+  <Message Timestamp="2013-07-16T09:41:58" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2013-07-16T09:41:58" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2013-07-16T09:41:58" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4" />
+  <Message Timestamp="2013-07-16T09:41:58" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4" />
+  <Message Timestamp="2013-07-16T09:41:58" Importance="Medium" Text="ModelingProject1's Text Template Binding: 'InterfaceTemplate' will apply InterfaceTemplate.t4 to: 'ModelingProject1::IFan' -  (Interface), 'ModelingProject1::IUnit' -  (Interface), 'ModelingProject1::ICooler' -  (Interface), 'ModelingProject1::IHeater' -  (Interface) " />
+  <Message Timestamp="2013-07-16T09:41:58" Importance="Medium" Text="'ModelingProject1::IFan' -  (Interface) : success (file replaced) - C:\Users\isemyan\Documents\GitHub\GKT\GKTModel\GeneratedCode\IFan.cs" />
+  <Message Timestamp="2013-07-16T09:41:58" Importance="Medium" Text="'ModelingProject1::IUnit' -  (Interface) : success (file replaced) - C:\Users\isemyan\Documents\GitHub\GKT\GKTModel\GeneratedCode\IUnit.cs" />
+  <Message Timestamp="2013-07-16T09:41:58" Importance="Medium" Text="'ModelingProject1::ICooler' -  (Interface) : success (file replaced) - C:\Users\isemyan\Documents\GitHub\GKT\GKTModel\GeneratedCode\ICooler.cs" />
+  <Message Timestamp="2013-07-16T09:41:58" Importance="Medium" Text="'ModelingProject1::IHeater' -  (Interface) : success (file replaced) - C:\Users\isemyan\Documents\GitHub\GKT\GKTModel\GeneratedCode\IHeater.cs" />
+  <Message Timestamp="2013-07-16T09:41:58" Importance="Diagnostic" Text="Name = StructTemplate" />
+  <Message Timestamp="2013-07-16T09:41:58" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2013-07-16T09:41:58" Importance="Diagnostic" Text="ProjectPath = ..\GKTModel\GKTModel.csproj" />
+  <Message Timestamp="2013-07-16T09:41:58" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2013-07-16T09:41:58" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2013-07-16T09:41:58" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2013-07-16T09:41:58" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2013-07-16T09:41:58" Importance="Medium" Text="ModelingProject1's Text Template Binding: 'StructTemplate' will apply StructTemplate.t4 to: 'ModelingProject1::BeltGearFan' -  (Class), 'ModelingProject1::FreePressureFan' -  (Class), 'ModelingProject1::NullFan' -  (Class) " />
+  <Message Timestamp="2013-07-16T09:41:59" Importance="Diagnostic" Text="'ModelingProject1::BeltGearFan' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2013-07-16T09:41:59" Importance="Diagnostic" Text="'ModelingProject1::FreePressureFan' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2013-07-16T09:41:59" Importance="Diagnostic" Text="'ModelingProject1::NullFan' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2013-07-16T09:41:59" Importance="Diagnostic" Text="The selection included 8 elements which were not bound to a template." />
+  <Message Timestamp="2013-07-16T09:41:59" Importance="Diagnostic" Text="'ModelingProject1::' -  (Association): no bound template." />
+  <Message Timestamp="2013-07-16T09:41:59" Importance="Diagnostic" Text="'ModelingProject1::' -  (InterfaceRealization): no bound template." />
+  <Message Timestamp="2013-07-16T09:41:59" Importance="Diagnostic" Text="'ModelingProject1::' -  (InterfaceRealization): no bound template." />
+  <Message Timestamp="2013-07-16T09:41:59" Importance="Diagnostic" Text="'ModelingProject1::' -  (InterfaceRealization): no bound template." />
+  <Message Timestamp="2013-07-16T09:41:59" Importance="Diagnostic" Text="'ModelingProject1::' -  (Association): no bound template." />
+  <Message Timestamp="2013-07-16T09:41:59" Importance="Diagnostic" Text="'ModelingProject1::' -  (Association): no bound template." />
+  <Message Timestamp="2013-07-16T09:41:59" Importance="Diagnostic" Text="'ModelingProject1::' -  (Association): no bound template." />
+  <Message Timestamp="2013-07-16T09:41:59" Importance="Diagnostic" Text="'ModelingProject1::' -  (Association): no bound template." />
+  <Message Timestamp="2013-07-16T09:41:59" Importance="High" Text="Code generation complete. Errors: 0. Warnings: 0." />
 </Log>
