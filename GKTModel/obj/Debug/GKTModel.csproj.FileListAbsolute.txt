@@ -1,0 +1,5 @@
+C:\Users\d\Documents\Visual Studio 11\Projects\GKT\GKTModel\bin\Debug\GKTModel.dll
+C:\Users\d\Documents\Visual Studio 11\Projects\GKT\GKTModel\bin\Debug\GKTModel.pdb
+C:\Users\d\Documents\Visual Studio 11\Projects\GKT\GKTModel\obj\Debug\GKTModel.csprojResolveAssemblyReference.cache
+C:\Users\d\Documents\Visual Studio 11\Projects\GKT\GKTModel\obj\Debug\GKTModel.dll
+C:\Users\d\Documents\Visual Studio 11\Projects\GKT\GKTModel\obj\Debug\GKTModel.pdb
