@@ -6,11 +6,16 @@
 //------------------------------------------------------------------------------
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 
 public interface IUnit 
-{
+{   
+    [Key]
+    int Id { get; set; }
+    string Name { get; set; }
+
 	NoiseQuencher InflowNoiseQuencher { get;set; }
 
 	NoiseQuencher ExtractNoiseQuencher { get;set; }

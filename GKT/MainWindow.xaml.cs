@@ -12,7 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-
+using GKTModel;
 namespace GKT
 {
     /// <summary>
@@ -23,6 +23,13 @@ namespace GKT
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            GKTDBContex g = new GKTDBContex("GKTModel.GKTDBContex");
+            var  d = g.Units.FirstOrDefault();
+
         }
     }
 }

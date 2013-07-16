@@ -3,3 +3,16 @@ C:\Users\d\Documents\Visual Studio 11\Projects\GKT\GKTModel\bin\Debug\GKTModel.p
 C:\Users\d\Documents\Visual Studio 11\Projects\GKT\GKTModel\obj\Debug\GKTModel.csprojResolveAssemblyReference.cache
 C:\Users\d\Documents\Visual Studio 11\Projects\GKT\GKTModel\obj\Debug\GKTModel.dll
 C:\Users\d\Documents\Visual Studio 11\Projects\GKT\GKTModel\obj\Debug\GKTModel.pdb
+C:\Users\isemyan\Documents\GitHub\GKT\GKTModel\obj\Debug\GKTModel.csprojResolveAssemblyReference.cache
+C:\Users\isemyan\Documents\GitHub\GKT\GKTModel\obj\Debug\GKTModel.dll
+C:\Users\isemyan\Documents\GitHub\GKT\GKTModel\obj\Debug\GKTModel.pdb
+C:\Users\isemyan\Documents\GitHub\GKT\GKTModel\bin\Debug\GKTModel.dll.config
+C:\Users\isemyan\Documents\GitHub\GKT\GKTModel\bin\Debug\GKTModel.dll
+C:\Users\isemyan\Documents\GitHub\GKT\GKTModel\bin\Debug\GKTModel.pdb
+C:\Users\isemyan\Documents\GitHub\GKT\GKTModel\bin\Debug\EntityFramework.dll
+C:\Users\isemyan\Documents\GitHub\GKT\GKTModel\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\isemyan\Documents\GitHub\GKT\GKTModel\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\isemyan\Documents\GitHub\GKT\GKTModel\bin\Debug\System.Data.SqlServerCe.Entity.dll
+C:\Users\isemyan\Documents\GitHub\GKT\GKTModel\bin\Debug\Tamir.SharpSSH.dll
+C:\Users\isemyan\Documents\GitHub\GKT\GKTModel\bin\Debug\Winterdom.IO.FileMap.dll
+C:\Users\isemyan\Documents\GitHub\GKT\GKTModel\bin\Debug\EntityFramework.xml

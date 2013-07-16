@@ -1,1 +1,20 @@
 c:\users\d\documents\visual studio 11\Projects\GKT\GKT\bin\Debug\GKT.exe.config
+C:\Users\isemyan\Documents\GitHub\GKT\GKT\bin\Debug\GKT.exe.config
+C:\Users\isemyan\Documents\GitHub\GKT\GKT\bin\Debug\GKT.exe
+C:\Users\isemyan\Documents\GitHub\GKT\GKT\bin\Debug\GKT.pdb
+C:\Users\isemyan\Documents\GitHub\GKT\GKT\obj\Debug\GKT.csprojResolveAssemblyReference.cache
+C:\Users\isemyan\Documents\GitHub\GKT\GKT\obj\Debug\MainWindow.baml
+C:\Users\isemyan\Documents\GitHub\GKT\GKT\obj\Debug\MainWindow.g.cs
+C:\Users\isemyan\Documents\GitHub\GKT\GKT\obj\Debug\App.g.cs
+C:\Users\isemyan\Documents\GitHub\GKT\GKT\obj\Debug\GKT_MarkupCompile.cache
+C:\Users\isemyan\Documents\GitHub\GKT\GKT\obj\Debug\GKT.g.resources
+C:\Users\isemyan\Documents\GitHub\GKT\GKT\obj\Debug\GKT.Properties.Resources.resources
+C:\Users\isemyan\Documents\GitHub\GKT\GKT\obj\Debug\GKT.csproj.GenerateResource.Cache
+C:\Users\isemyan\Documents\GitHub\GKT\GKT\obj\Debug\GKT.exe
+C:\Users\isemyan\Documents\GitHub\GKT\GKT\obj\Debug\GKT.pdb
+C:\Users\isemyan\Documents\GitHub\GKT\GKT\bin\Debug\EntityFramework.dll
+C:\Users\isemyan\Documents\GitHub\GKT\GKT\bin\Debug\GKTModel.dll
+C:\Users\isemyan\Documents\GitHub\GKT\GKT\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\isemyan\Documents\GitHub\GKT\GKT\bin\Debug\System.Data.SqlServerCe.Entity.dll
+C:\Users\isemyan\Documents\GitHub\GKT\GKT\bin\Debug\GKTModel.pdb
+C:\Users\isemyan\Documents\GitHub\GKT\GKT\bin\Debug\EntityFramework.xml
